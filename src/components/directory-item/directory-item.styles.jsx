@@ -19,6 +19,7 @@ export const Body = styled.div`
   background-color: white;
   opacity: 0.7;
   position: absolute;
+  text-transform: uppercase;
 
   h2 {
       font-weight: bold;
