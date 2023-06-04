@@ -13,4 +13,4 @@
 <img width="1083" alt="image" src="https://github.com/shotapailodze/crown-clothing/assets/55694002/f54c8c0c-0d4c-4fef-b2ad-9eb6a23ed703">
 
 # Checkout Page
-<img width="1061" alt="image" src="https://github.com/shotapailodze/crown-clothing/assets/55694002/011e312f-e97a-4acd-8f37-af24d15fd6e0">
+<img width="1022" alt="image" src="https://github.com/shotapailodze/crown-clothing/assets/55694002/5447a573-d730-474e-b151-806c4db133d9">
