@@ -1,4 +1,4 @@
-# [Live View](https://snazzy-sherbet-87f25d.netlify.app/)
+# [Live View](https://reactshopify-carts.netlify.app/)
 
 # Main Page
 <img width="1089" alt="image" src="https://github.com/shotapailodze/crown-clothing/assets/55694002/ef274a90-dab4-4c18-bb0b-4a1c85fcb318">
